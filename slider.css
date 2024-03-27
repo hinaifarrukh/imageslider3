@@ -1,0 +1,66 @@
+#box{
+    width:90%;
+    height:80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5% 5%;
+    
+}
+.ban1{
+    background-image: url("images/image5.jpg");
+}
+.ban2{
+    background-image: url("images/image10.jpg");
+}
+.ban3{
+    background-image: url("images/image7.jpeg");
+}
+.ban4{
+    background-image: url("images/image8.png");
+}
+.ban5{
+    background-image: url("images/image11.jpeg");
+}
+
+#rightbut{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    background-color: rgba(247, 247, 249, 0.383); 
+    position: relative;  
+    top: 250PX; 
+    left: 1030PX;
+    cursor: pointer;
+    font-size: 25px;
+    color:black;
+    
+}
+#leftbut{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    background-color: rgba(247, 247, 249, 0.383); 
+    position: relative;  
+    top: 250PX; 
+    left: 20PX;
+    cursor: pointer;
+    font-size: 25px;
+    color:black;    
+}
+#box2{
+    width:300px;
+    height:20px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 400PX; 
+    left: 450px;
+}
+.sp{
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 5px;
+   
+}
